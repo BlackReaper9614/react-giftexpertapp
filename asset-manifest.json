@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BlackReaper9614/react-giftexpertapp.git/static/css/main.2abad091.chunk.css",
-    "main.js": "/BlackReaper9614/react-giftexpertapp.git/static/js/main.0818aaec.chunk.js",
-    "main.js.map": "/BlackReaper9614/react-giftexpertapp.git/static/js/main.0818aaec.chunk.js.map",
-    "runtime-main.js": "/BlackReaper9614/react-giftexpertapp.git/static/js/runtime-main.e29de8f9.js",
-    "runtime-main.js.map": "/BlackReaper9614/react-giftexpertapp.git/static/js/runtime-main.e29de8f9.js.map",
-    "static/js/2.367f3f35.chunk.js": "/BlackReaper9614/react-giftexpertapp.git/static/js/2.367f3f35.chunk.js",
-    "static/js/2.367f3f35.chunk.js.map": "/BlackReaper9614/react-giftexpertapp.git/static/js/2.367f3f35.chunk.js.map",
-    "index.html": "/BlackReaper9614/react-giftexpertapp.git/index.html",
-    "static/css/main.2abad091.chunk.css.map": "/BlackReaper9614/react-giftexpertapp.git/static/css/main.2abad091.chunk.css.map",
-    "static/js/2.367f3f35.chunk.js.LICENSE.txt": "/BlackReaper9614/react-giftexpertapp.git/static/js/2.367f3f35.chunk.js.LICENSE.txt"
+    "main.css": "/react-giftexpertapp/static/css/main.2abad091.chunk.css",
+    "main.js": "/react-giftexpertapp/static/js/main.0818aaec.chunk.js",
+    "main.js.map": "/react-giftexpertapp/static/js/main.0818aaec.chunk.js.map",
+    "runtime-main.js": "/react-giftexpertapp/static/js/runtime-main.f4a6a06e.js",
+    "runtime-main.js.map": "/react-giftexpertapp/static/js/runtime-main.f4a6a06e.js.map",
+    "static/js/2.367f3f35.chunk.js": "/react-giftexpertapp/static/js/2.367f3f35.chunk.js",
+    "static/js/2.367f3f35.chunk.js.map": "/react-giftexpertapp/static/js/2.367f3f35.chunk.js.map",
+    "index.html": "/react-giftexpertapp/index.html",
+    "static/css/main.2abad091.chunk.css.map": "/react-giftexpertapp/static/css/main.2abad091.chunk.css.map",
+    "static/js/2.367f3f35.chunk.js.LICENSE.txt": "/react-giftexpertapp/static/js/2.367f3f35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e29de8f9.js",
+    "static/js/runtime-main.f4a6a06e.js",
     "static/js/2.367f3f35.chunk.js",
     "static/css/main.2abad091.chunk.css",
     "static/js/main.0818aaec.chunk.js"
